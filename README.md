@@ -8,6 +8,7 @@ This project fine-tunes a BERT-based Large Language Model to classify whether a 
 ## 🚀 Live Demo
 
 [![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-green?logo=streamlit)](https://llm-text-detector-ai-vs-student.streamlit.app)
+https://llm-text-detector-ai-vs-student.streamlit.app
 
 🔗 **Hugging Face Model**: [sohnirais/llm_detector](https://huggingface.co/sohnirais/llm_detector)
 
